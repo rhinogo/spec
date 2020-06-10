@@ -28,3 +28,7 @@
 5、函数名
 
 - 使用 MixedCaps 或者 mixedCaps，而不是下划线。
+
+6、变量名
+
+- 使用 MixedCaps 或者 mixedCaps，而不是下划线。
