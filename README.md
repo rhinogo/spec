@@ -32,3 +32,7 @@
 6、变量名
 
 - 使用 MixedCaps 或者 mixedCaps，而不是下划线。
+
+7、常量名
+
+- 使用 MixedCaps 或者 mixedCaps，而不是下划线。
